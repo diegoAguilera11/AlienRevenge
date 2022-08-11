@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ImageGame
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5371029570617267383
+  m_GuidHigh: 12469275253198612105
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5164951906792424339
+      m_GuidHigh: 4158472562312806818
+    m_SerializedTextureGuid:
+      m_GuidLow: 1514573333799293409
+      m_GuidHigh: 16498789687595633002
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: GamePlay
+    m_Texture: {fileID: 2800000, guid: 2b62d1e1d86c15046a090479ce79f7e4, type: 3}
